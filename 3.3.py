@@ -1,5 +1,6 @@
 # 3 задача
 
+
 a,b,c=int(input('введите a: ')),int(input('введите b: ')),int(input('введите c: '))
 
 def my_func(a,b,c):
