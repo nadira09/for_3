@@ -1,5 +1,6 @@
 # задача 5
 
+
 strg=input()
 
 s=strg.split('_')
