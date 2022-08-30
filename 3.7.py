@@ -1,5 +1,6 @@
 # задача 7
 
+
 word=input('введите слово: ')
 def int_func(word):
     return word.title()
